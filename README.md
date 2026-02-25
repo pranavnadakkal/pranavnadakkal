@@ -19,7 +19,7 @@ Here are some of the technologies and tools I work with:
 
 ### 🌱 I'm currently learning...
 
--   [A new language, framework, or concept you're excited about!]
+- JS,REACTJS,TAILWIND,ANTIGRAVITY
 
 ### 🚀 Projects
 
