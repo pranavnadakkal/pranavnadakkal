@@ -1,46 +1,69 @@
-# Hi there, I'm Pranav Nadakkal 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=SYSTEM+INITIALIZED...;HELLO,+I'M+PRANAV+NADAKKAL;WELCOME+TO+MY+DIGITAL+WORKSPACE" alt="Typing SVG" />
+  </a>
+</div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
----
+<div align="center">
+  <h3>⚡ ACTIVATING SKILL PROTOCOLS ⚡</h3>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,python,java,html,css,nodejs,django,flask,postgres,mongodb,git,docker,vscode&theme=dark" alt="Skill Icons" />
+  </a>
+</div>
 
-### 💻 Technologies & Tools
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
-Here are some of the technologies and tools I work with:
+<div align="center">
+  <h3>📡 CURRENT DIRECTIVES 📡</h3>
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&pause=1000&color=FF00CC&center=true&vCenter=true&width=600&lines=->+Learning:+JS,+React,+Tailwind,+Antigravity;->+Enhancing+system+capabilities;->+Deploying+next-gen+solutions" alt="Directives Typing SVG" />
+</div>
 
-| Category      | Technologies                                                                                                                                                                                                                                                                 |
-| :------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)      |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)                                                                                                    |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
----
+<div align="center">
+  <h3>🚀 MISSION LOG (PROJECTS) 🚀</h3>
+</div>
 
-### 🌱 I'm currently learning...
+<div align="center">
+  <code><b>[Project Alpha]</b> - Classified: High-performance scalable backend </code><br/><br/>
+  <code><b>[Project Beta]</b> - Classified: Next-gen reactive frontend </code><br/><br/>
+  <code><b>[Project Gamma]</b> - Classified: Autonomous data processing </code>
+</div>
+<br/>
 
-- JS,REACTJS,TAILWIND,ANTIGRAVITY
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
-### 🚀 Projects
+<div align="center">
+  <h3>📈 TELEMETRY DATA (STATS) 📈</h3>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavnadakkal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavnadakkal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Your Top Languages" />
+</div>
 
-Here are a few projects I've been working on:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
--   **[Project 1 Name]** - [Brief, one-sentence description of the project and what it does.]
--   **[Project 2 Name]** - [Brief, one-sentence description of the project and what it does.]
--   **[Project 3 Name]** - [Brief, one-sentence description of the project and what it does.]
+<div align="center">
+  <h3>🌐 ESTABLISH CONNECTION 🌐</h3>
+  <br />
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</div>
 
----
-
-### 📫 Let's connect!
-
--   **LinkedIn:** [Your LinkedIn Profile URL]
--   **Twitter:** [Your Twitter Profile URL]
--   **Portfolio/Blog:** [Your Personal Website URL]
-
----
-this is just a TEST!!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=default" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=default" alt="Your Top Languages" />
-</p>
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
