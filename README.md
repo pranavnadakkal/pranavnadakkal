@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=SYSTEM+INITIALIZED...;HELLO,+I'M+PRANAV+NADAKKAL;WELCOME+TO+MY+DIGITAL+WORKSPACE;CLOUD;CYBERSECURITY;DEVELOPING+SOLVING+PROBLEMS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=SYSTEM+INITIALIZED...;HELLO,+I'M+PRANAV+NADAKKAL;WELCOME+TO+MY+DIGITAL+WORKSPACE;CLOUD;CYBERSECURITY;DEVELOPING,+SOLVING+PROBLEMS" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
   <h3>⚡ ACTIVATING SKILL PROTOCOLS ⚡</h3>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,python,java,html,css,nodejs,django,flask,postgres,mongodb,git,docker,vscode&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,python,java,html,css,bash,kali,linux,mysql,supabase,fastapi,ai,postgres,c,java,git,docker,vscode&theme=dark" alt="Skill Icons" />
   </a>
 </div>
 
