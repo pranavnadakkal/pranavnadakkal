@@ -1,55 +1,69 @@
 <div align="center">
-  <table align="center" width="800" style="border-collapse: collapse; border: 1px solid #30363D; border-radius: 10px; background-color: #0D1117;">
-    <!-- Terminal Header -->
-    <tr style="background-color: #161B22; border-bottom: 1px solid #30363D;">
-      <td style="padding: 10px 15px; font-family: monospace; color: #8B949E; font-size: 14px; text-align: left;">
-         🔴 🟡 🟢 &nbsp;&nbsp;&nbsp; bash - pranav@mac-m4-air:~
-      </td>
-    </tr>
-    <!-- Terminal Body -->
-    <tr>
-      <td style="padding: 20px; font-family: 'Fira Code', Consolas, monospace; color: #C9D1D9; font-size: 14px; line-height: 1.6; text-align: left;">
-        
-        <!-- Animated Typing Command -->
-        <span style="color: #7EE787;">pranav@mac-m4-air</span>:<span style="color: #79C0FF;">~</span>$ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1000&color=A5D6FF&vCenter=true&width=400&lines=neofetch;cat+about.txt;./load_skills.sh;chmod++x+projects.sh" alt="Typing..." style="vertical-align: middle;" />
-        <br><br>
-        
-        <!-- Interactive Dropdown 1 -->
-        <details>
-          <summary style="cursor: pointer; color: #79C0FF;"><b>▶ ./show_about.sh</b> <span style="color: #8B949E; font-size: 12px;"><i>(Click to execute)</i></span></summary>
-          <p style="padding-left: 20px; border-left: 2px solid #30363D; margin-top: 10px; color: #E6EDF3;">
-            "I am a Cloud and Full-Stack Developer architecting scalable backend systems. <br>Passionate about DevSecOps, Docker containerization, and building robust cloud infrastructure."
-          </p>
-        </details>
-        <br>
-        
-        <!-- Interactive Dropdown 2 -->
-        <details>
-          <summary style="cursor: pointer; color: #79C0FF;"><b>▶ ./display_tech_stack.py</b> <span style="color: #8B949E; font-size: 12px;"><i>(Click to execute)</i></span></summary>
-          <p style="padding-left: 20px; border-left: 2px solid #30363D; margin-top: 10px; color: #E6EDF3;">
-            <span style="color: #7EE787;">Cloud_&_DevOps:</span> AWS, Azure, Docker, Ansible<br>
-            <span style="color: #7EE787;">Backend:</span> Python, Django, PostgreSQL, Supabase<br>
-            <span style="color: #7EE787;">Frontend:</span> Next.js, Tailwind CSS
-          </p>
-        </details>
-        <br>
-        
-        <!-- Interactive Dropdown 3 -->
-        <details>
-          <summary style="cursor: pointer; color: #79C0FF;"><b>▶ cat current_projects.json</b> <span style="color: #8B949E; font-size: 12px;"><i>(Click to execute)</i></span></summary>
-          <p style="padding-left: 20px; border-left: 2px solid #30363D; margin-top: 10px; color: #E6EDF3;">
-            {<br>
-            &nbsp;&nbsp;<span style="color: #A5D6FF;">"Mentorship_Portal"</span>: "Next.js + Supabase UI",<br>
-            &nbsp;&nbsp;<span style="color: #A5D6FF;">"CivicTrack"</span>: "Dockerized Voter Onboarding App",<br>
-            &nbsp;&nbsp;<span style="color: #A5D6FF;">"CarePulse"</span>: "DevSecOps Healthcare Application"<br>
-            }
-          </p>
-        </details>
-        <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=SYSTEM+INITIALIZED...;HELLO,+I'M+PRANAV+NADAKKAL;WELCOME+TO+MY+DIGITAL+WORKSPACE" alt="Typing SVG" />
+  </a>
+</div>
 
-        <!-- Blinking Cursor -->
-        <span style="color: #7EE787;">pranav@mac-m4-air</span>:<span style="color: #79C0FF;">~</span>$ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=14&pause=1000&color=C9D1D9&vCenter=true&width=20&lines=█;+;█;+" alt="Cursor" style="vertical-align: middle;" />
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
+
+<div align="center">
+  <h3>⚡ ACTIVATING SKILL PROTOCOLS ⚡</h3>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,python,java,html,css,nodejs,django,flask,postgres,mongodb,git,docker,vscode&theme=dark" alt="Skill Icons" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
+
+<div align="center">
+  <h3>📡 CURRENT DIRECTIVES 📡</h3>
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&pause=1000&color=FF00CC&center=true&vCenter=true&width=600&lines=->+Learning:+JS,+React,+Tailwind,+Antigravity;->+Enhancing+system+capabilities;->+Deploying+next-gen+solutions" alt="Directives Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
+
+<div align="center">
+  <h3>🚀 MISSION LOG (PROJECTS) 🚀</h3>
+</div>
+
+<div align="center">
+  <code><b>[Project Alpha]</b> - Classified: High-performance scalable backend </code><br/><br/>
+  <code><b>[Project Beta]</b> - Classified: Next-gen reactive frontend </code><br/><br/>
+  <code><b>[Project Gamma]</b> - Classified: Autonomous data processing </code>
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
+
+<div align="center">
+  <h3>📈 TELEMETRY DATA (STATS) 📈</h3>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavnadakkal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavnadakkal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Your Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
+
+<div align="center">
+  <h3>🌐 ESTABLISH CONNECTION 🌐</h3>
+  <br />
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
