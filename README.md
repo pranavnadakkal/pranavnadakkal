@@ -11,9 +11,11 @@
 <div align="center">
   <h3>⚡ ACTIVATING SKILL PROTOCOLS ⚡</h3>
   <br />
+  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,python,java,html,css,bash,kali,linux,mysql,supabase,fastapi,ai,postgres,c,java,git,docker,vscode&theme=dark" alt="Skill Icons" />
   </a>
+  </p>
 </div>
 
 <div align="center">
