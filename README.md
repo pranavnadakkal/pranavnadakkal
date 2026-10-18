@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=SYSTEM+INITIALIZED...;HELLO,+I'M+PRANAV+NADAKKAL;WELCOME+TO+MY+DIGITAL+WORKSPACE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=SYSTEM+INITIALIZED...;HELLO,+I'M+PRANAV+NADAKKAL;WELCOME+TO+MY+DIGITAL+WORKSPACE;CLOUD AND CYBER SECURITY ENTHUSIAST" alt="Typing SVG" />
   </a>
 </div>
 
@@ -35,9 +35,9 @@
 </div>
 
 <div align="center">
-  <code><b>[Project Alpha]</b> - Classified: High-performance scalable backend </code><br/><br/>
-  <code><b>[Project Beta]</b> - Classified: Next-gen reactive frontend </code><br/><br/>
-  <code><b>[Project Gamma]</b> - Classified: Autonomous data processing </code>
+  <code><b>[Alpha]</b> - CYBER SECURITY </code><br/><br/>
+  <code><b>[Beta]</b> - CLOUD </code><br/><br/>
+  <code><b>[Gamma]</b> - DEVELOPING </code>
 </div>
 <br/>
 
